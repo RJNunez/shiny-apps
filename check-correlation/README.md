@@ -1,7 +1,9 @@
-# Description
+# Be Wary of your Correlation
 
+### Location
 The app is currently hosted [here](https://rjnunez.shinyapps.io/check-correlation/)
 
+### Description
 This app is simply to show that the sample correlation coefficient may not be the equal to the true population correlation
 coefficient when the sample size is small. In fact, it may be the case that the sample correlation coefficient is very 
 different from the truth. To show this, let X and Y be jointly normally distributed random variables centered at zero, 
